@@ -1,0 +1,30 @@
+[
+	{
+		"Id": "249de38e-551a-43ab-0dd2-08dc8523d4d8",
+		"Title": "إضافة خدمة جديدة",
+		"TitleDescription": "عنوان الخدمة,",
+		"MainClassificationDescription": "التصنيف الرئيسي",
+		"CatalogDescription": "التصنيف الفرعى",
+		"CategoryDescription": "نوع الخدمة",
+		"ItemDescription": "البند",
+		"SubjectDescription": "موضوع الخدمة",
+		"DefaultCheck": true,
+		"ServiceType": 2,
+		"MainClassificationId": null
+
+
+	},
+	{
+		"Id": "249de38e-551a-43ab-0dd2-08dc8741d4d8",
+		"Title": "إضافة بلاغ عن خدمة حالية,",
+		"TitleDescription": "عنوان البلاع,",
+		"MainClassificationDescription": "التصنيف الرئيسي",
+		"CatalogDescription": "التصنيف الفرعى",
+		"CategoryDescription": "نوع البلاغ",
+		"ItemDescription": "البند",
+		"SubjectDescription": "موضوع الخدمة",
+		"DefaultCheck": true,
+		"ServiceType": 3,
+		"MainClassificationId": null
+	}
+]

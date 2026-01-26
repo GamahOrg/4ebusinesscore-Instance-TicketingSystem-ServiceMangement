@@ -1,0 +1,9 @@
+﻿global using _4EPlatform.Domain.Models.CategoryModel;
+global using _4EPlatform.Domain.Models.ItemModel;
+global using _4EPlatform.Domain.Models.MainClassificationModel;
+global using _4EPlatform.Domain.Models.ServiceCatalogModel;
+global using _4EPlatform.Domain.Models.ServiceConfigurationModel;
+global using Domain.Enums;
+global using Domain.Models;
+global using System.ComponentModel.DataAnnotations;
+global using System.Text.RegularExpressions;

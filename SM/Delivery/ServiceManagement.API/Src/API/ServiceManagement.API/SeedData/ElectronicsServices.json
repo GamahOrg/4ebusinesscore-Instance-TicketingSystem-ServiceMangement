@@ -1,0 +1,82 @@
+[
+	{
+		"Id": "249de38e-551a-43ab-0dd2-08dc8884d4d8",
+		"Name": "طلباتى",
+		"Link": "technical-support-feedbacks-administration-employee",
+		"Icon": "fas fa-file-alt fs-2x",
+		"Description": "يمكنك الاطلاع علي البلاغات او الطلبات الخاصه بك فقط",
+		"workspacekey": 89
+	},
+	{
+		"Id": "f99b004c-9641-4468-0dd3-08dc8884d4d8",
+		"Name": "بلاغ خدمة قائمة",
+		"Link": "current-service-report",
+		"Icon": "fad fa-file fs-2x",
+		"Description": "يمكنك اضافه بلاغ علي خدمه قائمه",
+		"workspacekey": 29
+	},
+	{
+		"Id": "334dad00-eec8-4f90-0dd4-08dc8884d4d8",
+		"Name": "طلب خدمة جديدة",
+		"Link": "new-service-request",
+		"Icon": "fad fa-layer-plus fs-2x",
+		"Description": "يمكنك طلب خدمه جديدة",
+		"workspacekey": 31
+	},
+	{
+		"Id": "feab1dd8-9da2-463a-0dd5-08dc8884d4d8",
+		"Name": "حلول الدعم الفني",
+		"Link": "technical-reports-solutions",
+		"Icon": "fad fa-file-plus fs-2x",
+		"Description": "يمكنك الاطلاع علي بعض الاسئله الشائعه والحلول الخاصه بها",
+		"workspacekey": 30
+	},
+	{
+		"Id": "c29ad39b-cff3-40ee-925f-1741da678982",
+		"Name": "بلاغات ادمن الدعم الفنى",
+		"Link": "technical-support-feedbacks-manager",
+		"Icon": "fas fa-file-alt fs-2x",
+		"Description": "يمكنك الاطلاع واتخاذ الاجراءات علي البلاغات والطلبات الخاصه بجميع التصنيفات",
+		"workspacekey": 86
+	},
+	{
+		"Id": "b5ea3670-8caa-43ed-b843-ccd67c6fa985",
+		"Name": "بلاغات مدير الدعم الفنى",
+		"Link": "technical-support-feedbacks-adminstration-manager",
+		"Icon": "fas fa-file-alt fs-2x",
+		"Description": "يمكنك الاطلاع واتخاذ اجراءات علي البلاغات والطلبات الخاصه بك",
+		"workspacekey": 87
+	},
+	{
+		"Id": "e561d13e-919a-4c81-b843-1af5889af052",
+		"Name": "بلاغات موظف الدعم الفني",
+		"Link": "technical-support-feedbacks-employee",
+		"Icon": "fas fa-file-alt fs-2x",
+		"Description": "يمكنك الاطلاع واتخاذ الاجراءات علي البلاغات والطلبات الخاصه بك والموجهه اليك",
+		"workspacekey": 88
+	},
+	{
+		"Id": "51d3a117-6144-4423-b7a8-af3e9f130dc2",
+		"Name": "إتفاقية مستوى الخدمة",
+		"Link": "technical-support-service-level-agreement-details",
+		"Icon": "fas fa-file-alt fs-2x",
+		"Description": "يمكنك اضافه والاطلاع علي اتفاقيات مستوي الخدمه",
+		"workspacekey": 27
+	},
+	{
+		"Id": "9c665339-69c3-4f0e-a338-2ab1375361c9",
+		"Name": "إشعارات الدعم الفني",
+		"Link": "technical-support-system-settings/technical-support-workspace",
+		"Icon": "fas fa-file-alt fs-2x",
+		"Description": "عرض  إشعارات الدعم الفني",
+		"workspacekey": 90
+	},
+	{
+		"Id": "4e81ca23-ce9b-47bd-bc0e-c6c96a1ed8ef",
+		"Name": "مؤشرات الدعم الفني",
+		"Link": "technical-support-reportsv2",
+		"Icon": "fas fa-file-alt fs-2x",
+		"Description": "عرض  مؤشرات الدعم الفني",
+		"workspacekey": 91
+	}
+]

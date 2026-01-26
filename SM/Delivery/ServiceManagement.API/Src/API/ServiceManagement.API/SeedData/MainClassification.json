@@ -1,0 +1,224 @@
+[
+	{
+		"Id": "d2131715-6fb4-41a6-88bf-08dbe0fd85d7",
+		"Name": "ادارة الدعم الفني",
+		"OrgId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+		"MainClassificationAdmin": [
+			{
+				"AdminId": "0dfa4ac5-8d63-468c-ac33-08dbe060ff5f",
+				"MainClassificationId": "d2131715-6fb4-41a6-88bf-08dbe0fd85d7"
+			}
+		],
+		"Icon": "<i class=\"bi bi-journal-text fs-1x mx-2\"></i>",
+		"Color": "blue",
+		"Description": "This is desc",
+		"State": 0,
+		"CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+		"TeamName": "string",
+		"ServiceType": 2,
+		"Code": "A01",
+		"ServiceCatalogs": [
+			{
+				"Id": "6fd7f5e4-1b46-40d5-a35a-cf3cde1a81c2",
+				"Name": "اطلاق خدمات في الشبكة",
+				"Priority": 2,
+				"Icon": "<i class=\"bi bi-journal-text fs-1x mx-2\"></i>",
+				"Color": "blue",
+				"Description": "ss",
+				"ServiceType": 3,
+				"TeamName": "<string>",
+				"Categories": [
+					{
+						"Id": "7301c454-1f44-4f8b-a2fc-9ef52b6816a6",
+						"Name": "اطلاق خدمات",
+						"Status": 1,
+						"Priority": 1,
+						"Description": "string",
+						"ServiceType": 2,
+						"TeamName": "string",
+						"Items": [
+							{
+								"Id": "4f84fec1-f3ca-4d5b-a9f8-d193816d0504",
+								"Name": "خدمة خارجية",
+								"Duration": "200",
+								"Effect": 1,
+								"PriorityLevel": 1,
+								"SlaId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+								"TeamName": "string",
+								"Description": "<string>"
+							},
+							{
+								"Id": "ed0f170f-ebec-4aae-a6d0-0ab4fb94863c",
+								"Name": "خدمة داخلية",
+								"Duration": "0",
+								"Effect": 1,
+								"PriorityLevel": 1,
+								"TeamName": "string",
+								"SlaId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+								"Description": "string"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Id": "d6b60264-2db1-4efd-beec-6fee1be6808b",
+				"Name": "الأصول التقنية ",
+				"Priority": 2,
+				"Icon": "<i class=\"bi bi-journal-text fs-1x mx-2\"></i>",
+				"Color": "blue",
+				"Description": "ss",
+				"ServiceType": 2,
+				"TeamName": "<string>",
+				"Categories": [
+					{
+						"Id": "c5ae1ef4-b014-4215-9975-13126eba7770",
+						"Name": "طابعة",
+						"Status": 1,
+						"Priority": 1,
+						"Description": "string",
+						"ServiceType": 2,
+						"TeamName": "string",
+						"Items": [
+							{
+								"Id": "a06439c2-183f-4946-824c-98a55b4d4bfc",
+								"Name": "طلب حبر طابعة",
+								"Duration": "200",
+								"Effect": 1,
+								"PriorityLevel": 1,
+								"SlaId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+								"Description": "<string>",
+								"TeamName": "string"
+							},
+							{
+								"Id": "d924beed-b11d-4ec9-9a66-141866da6f76",
+								"Name": "طلب طابعة",
+								"Duration": "0",
+								"Effect": 1,
+								"PriorityLevel": 1,
+								"SlaId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+								"Description": "string",
+								"TeamName": "string"
+							}
+						]
+					},
+					{
+						"Id": "8a89605c-e4b8-409b-8979-9f3e610c2aac",
+						"Name": "الابتوب",
+						"Status": 1,
+						"Priority": 1,
+						"Description": "string",
+						"ServiceType": 2,
+						"TeamName": "string",
+						"Items": [
+							{
+								"Id": "d968e947-2a3a-4a02-96ca-a259faa2ef9c",
+								"Name": "اصلاح لابتوب",
+								"Duration": "200",
+								"Effect": 1,
+								"PriorityLevel": 1,
+								"SlaId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+								"Description": "<string>",
+								"TeamName": "string"
+							},
+							{
+								"Id": "01f3debb-635b-4fae-a14d-977335184f3b",
+								"Name": " طلب لابوتوب جديد",
+								"Duration": "0",
+								"Effect": 1,
+								"PriorityLevel": 1,
+								"SlaId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+								"Description": "string",
+								"TeamName": "string"
+							}
+						]
+					},
+					{
+						"Id": "0d3124a8-b26d-4a28-a916-58d35920aff6",
+						"Name": " لوحة المفاتيح والفأرة",
+						"Status": 1,
+						"Priority": 1,
+						"Description": "string",
+						"ServiceType": 2,
+						"TeamName": "string",
+						"Items": [
+							{
+								"Id": "e97e90ad-7dc9-4216-9f25-19683d38672b",
+								"Name": "استبدال القديم",
+								"Duration": "200",
+								"Effect": 1,
+								"PriorityLevel": 1,
+								"SlaId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+								"Description": "<string>",
+								"TeamName": "string"
+							},
+							{
+								"Id": "021f973c-a605-4058-a74b-14b2815ec101",
+								"Name": "  طلب بطاريات",
+								"Duration": "0",
+								"Effect": 1,
+								"PriorityLevel": 1,
+								"SlaId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+								"Description": "string",
+								"TeamName": "string"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Id": "bc436a5f-9834-4235-83be-741d03d92acf",
+				"Name": "الملفات السحابية ",
+				"Priority": 2,
+				"Icon": "<i class=\"bi bi-journal-text fs-1x mx-2\"></i>",
+				"Color": "blue",
+				"Description": "ss",
+				"ServiceType": 2,
+				"TeamName": "<string>",
+				"Categories": [
+					{
+						"Id": "f420ba9b-74d2-4b72-877c-b7194c33d9a9",
+						"Name": "خدمة مشاركة الملفات السحابية",
+						"Status": 1,
+						"Priority": 1,
+						"Description": "string",
+						"ServiceType": 2,
+						"TeamName": "string",
+						"Items": [
+							{
+								"Id": "3395b86d-f93a-4f1a-8190-c9117f3cfe20",
+								"Name": "طلب إضافة وتفعيل الخدمة",
+								"Duration": "200",
+								"Effect": 1,
+								"PriorityLevel": 1,
+								"SlaId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+								"Description": "<string>",
+								"TeamName": "string"
+							},
+							{
+								"Id": "9c5ea457-60f1-4164-be25-6917bec688e9",
+								"Name": "طلب دعم في آلية استخدام الخدمة ",
+								"Duration": "0",
+								"Effect": 1,
+								"PriorityLevel": 1,
+								"SlaId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+								"Description": "string",
+								"TeamName": "string"
+							},
+							{
+								"Id": "51f79b36-45f9-4b97-ae5e-d2f067010cd7",
+								"Name": "مشكلة تقنية في الخدمة ",
+								"Duration": "0",
+								"Effect": 1,
+								"PriorityLevel": 1,
+								"SlaId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+								"Description": "string",
+								"TeamName": "string"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
